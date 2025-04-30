@@ -10,7 +10,7 @@ Evaluated  data set using pivot table, built a interactive dashboard with Pie ch
 - Learnt imp formulas, conditional formatting, Converting Currency, Number formatting, Count, Sum,
 
 # Charts ( Individual )
-# Line and bar combination Chart
+# Line and bar combination chart
 <img width="911" alt="Screenshot 2022-11-07 at 11 33 45 AM" src="https://user-images.githubusercontent.com/114512832/200238674-aca9b816-bea8-4384-a9db-1f8c33fee8e8.png">
 
 # Waterfall chart
